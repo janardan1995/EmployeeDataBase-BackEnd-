@@ -17,7 +17,7 @@ namespace Repository
 
         public Task<int> AddEmployee(Employee employee)
         {
-            userDBContext.employees.Add(employee);
+            userDBContext.employee.Add(employee);
             var result = userDBContext.SaveChangesAsync();
             return result;
         }

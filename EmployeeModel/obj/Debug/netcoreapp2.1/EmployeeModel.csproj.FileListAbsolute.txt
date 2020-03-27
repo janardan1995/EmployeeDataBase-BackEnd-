@@ -1,0 +1,10 @@
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeModel\bin\Debug\netcoreapp2.1\EmployeeModel.deps.json
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeModel\bin\Debug\netcoreapp2.1\EmployeeModel.runtimeconfig.json
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeModel\bin\Debug\netcoreapp2.1\EmployeeModel.runtimeconfig.dev.json
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeModel\bin\Debug\netcoreapp2.1\EmployeeModel.dll
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeModel\obj\Debug\netcoreapp2.1\EmployeeModel.AssemblyInfoInputs.cache
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeModel\obj\Debug\netcoreapp2.1\EmployeeModel.AssemblyInfo.cs
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeModel\bin\Debug\netcoreapp2.1\EmployeeModel.pdb
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeModel\obj\Debug\netcoreapp2.1\EmployeeModel.dll
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeModel\obj\Debug\netcoreapp2.1\EmployeeModel.pdb
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeModel\obj\Debug\netcoreapp2.1\EmployeeModel.csprojAssemblyReference.cache

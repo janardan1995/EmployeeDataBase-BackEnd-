@@ -12,14 +12,14 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
-//using Microsoft.OpenApi.Models;
+using Microsoft.OpenApi.Models;
 using Repository;
 using Repository.Context;
 
 
 namespace EmployeeSystem
 {
-    public class Startup
+     public class Startup
     {
         public Startup(IConfiguration configuration)
         {
@@ -49,7 +49,7 @@ namespace EmployeeSystem
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UsedSwaggerUI(c => { c.SwaggerEndPoint("/swagger/v1/swagger.json", "myapi v1"); });
+                app.UseSwaggerUI(c => { c.SwaggerEndpoint("/swagger/v1/swagger.json", "myapi v1"); });
             }
             else
             {
@@ -57,7 +57,7 @@ namespace EmployeeSystem
             }
 
             app.UseHttpsRedirection();
-            app.UseMvc();          
+            app.UseMvc();
         }
     }
 }

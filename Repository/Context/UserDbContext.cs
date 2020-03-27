@@ -11,7 +11,7 @@ namespace Repository.Context
         public UserDBContext(DbContextOptions<UserDBContext> options) : base(options)
         {
         }
-        public DbSet<Employee> employees
+        public DbSet<Employee> employee
         {
             get;set;
         }
