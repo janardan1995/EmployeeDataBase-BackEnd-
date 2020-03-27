@@ -1,0 +1,4 @@
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\Repository\bin\Debug\netcoreapp2.1\EmployeeModel.dll
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\Repository\obj\Debug\netcoreapp2.1\Repository.csprojAssemblyReference.cache
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs

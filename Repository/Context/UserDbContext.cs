@@ -1,10 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using EmployeeModel;
+using Microsoft.EntityFrameworkCore;
 
 namespace Repository.Context
 {
-    class UserDbContext
+    public class UserDBContext : DbContext
     {
+        public UserDBContext(DbContextOptions<UserDBContext> options) : base(options)
+        {
+        }
+        public DbSet<Employee> employees
+        {
+            get;set;
+        }
     }
 }
