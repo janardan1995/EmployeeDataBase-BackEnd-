@@ -1,0 +1,16 @@
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\bin\Debug\netcoreapp2.1\EmployeeSystem.deps.json
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\bin\Debug\netcoreapp2.1\EmployeeSystem.runtimeconfig.json
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\bin\Debug\netcoreapp2.1\EmployeeSystem.runtimeconfig.dev.json
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\bin\Debug\netcoreapp2.1\EmployeeSystem.dll
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\obj\Debug\netcoreapp2.1\EmployeeSystem.csprojAssemblyReference.cache
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\obj\Debug\netcoreapp2.1\EmployeeSystem.RazorAssemblyInfo.cache
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\obj\Debug\netcoreapp2.1\EmployeeSystem.RazorAssemblyInfo.cs
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\obj\Debug\netcoreapp2.1\EmployeeSystem.AssemblyInfoInputs.cache
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\obj\Debug\netcoreapp2.1\EmployeeSystem.AssemblyInfo.cs
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\obj\Debug\netcoreapp2.1\EmployeeSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\bin\Debug\netcoreapp2.1\EmployeeSystem.pdb
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\obj\Debug\netcoreapp2.1\EmployeeSystem.dll
+C:\Users\Neelabh\Desktop\backend\EmployeeSystem\EmployeeSystem\obj\Debug\netcoreapp2.1\EmployeeSystem.pdb
